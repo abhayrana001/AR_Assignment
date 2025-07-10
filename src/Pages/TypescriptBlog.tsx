@@ -34,19 +34,8 @@ const TypescriptBlog = () => {
           This makes large projects much easier to navigate.
 
           <br /><br />
-          6. Works Seamlessly with React
-          TypeScript works exceptionally well with React and JSX.
-          You can define prop types, use interfaces, and get better support for hooks like `useState` and `useReducer`.
-
-          <br /><br />
-          7. Strong Ecosystem Support
-          Most popular libraries now ship with TypeScript types, and many tools (like ESLint, Prettier, Vite, etc.) support it out of the box.
-
-          <br /><br />
-          8. Progressive Adoption
-          You don’t have to rewrite your entire app. TypeScript can be gradually adopted file-by-file using `.ts` and `.tsx` extensions.
-
-          <br /><br />
+         
+          
           ✨ Final Thoughts:
           TypeScript helps you write more reliable and scalable code.
           For teams and large projects, it’s almost a necessity.
